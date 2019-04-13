@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039189489697",
+    "firebase_url": "https://books-i-have.firebaseio.com",
+    "project_id": "books-i-have",
+    "storage_bucket": "books-i-have.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039189489697:android:687173511bcdb0ff",
+        "android_client_info": {
+          "package_name": "com.exodia.shahad.booksihave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039189489697-b8jb2mm7e3ekanigpiphh5s1b4pucgta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exodia.shahad.booksihave",
+            "certificate_hash": "0751a7f6af7219533e745b4100f461fd512fa0ae"
+          }
+        },
+        {
+          "client_id": "1039189489697-m1ql0g867e5ebkq37p9q8e6i5frnfn1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrjyCrAC9IQ8FaAqjWCoQjSgQwHofMug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039189489697-m1ql0g867e5ebkq37p9q8e6i5frnfn1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
